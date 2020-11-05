@@ -1,4 +1,4 @@
-baseurl = "https://bordeline.games/"
+baseurl = "https://bordeline.studio/"
 title = "Bordeline Games"
 
 theme = "hugo-coder"
